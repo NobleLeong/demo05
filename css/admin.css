@@ -1,0 +1,62 @@
+body{
+	font-family: "微软雅黑";
+}
+/*头像*/
+.wh64{
+	width: 64px;
+	height:64px;
+}
+.mar_t70{
+	margin-top: 70px;
+}
+.mar_t15{
+	margin-top: 15px;
+}
+.pad0{
+	padding: 0;
+}
+.navbar-default{
+	border: none;
+	box-shadow: 0px 4px 8px 0px rgba(50,50,50,0.25);
+}
+.navbar-default .navbar-brand{
+	font-weight: bold;
+}
+
+.list-group li{
+	margin: 0;
+}
+.progress{
+	margin-bottom: 15px;
+}
+
+.page-header{
+	margin-top: 0;
+}
+.page-header h5{
+	margin: 0;
+}
+.user_search{
+	padding: 15px;
+	border: 1px solid #ddd;
+}
+
+.taglist{
+	padding-top: 15px;
+	
+}
+
+.taglist .alert{
+	margin: 0 15px 15px 0;
+}
+
+
+
+
+
+
+footer{
+	text-align: center;
+	font-weight: 400;
+	padding: 20px 0;
+}
